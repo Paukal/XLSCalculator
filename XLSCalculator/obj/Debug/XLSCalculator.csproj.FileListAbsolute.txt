@@ -1,0 +1,13 @@
+C:\Users\Paulius\Documents\Study n code\Kelprojektas\XLSCalculator\bin\Debug\XLSCalculator.exe.config
+C:\Users\Paulius\Documents\Study n code\Kelprojektas\XLSCalculator\bin\Debug\XLSCalculator.exe
+C:\Users\Paulius\Documents\Study n code\Kelprojektas\XLSCalculator\bin\Debug\XLSCalculator.pdb
+C:\Users\Paulius\Documents\Study n code\Kelprojektas\XLSCalculator\bin\Debug\EPPlus.dll
+C:\Users\Paulius\Documents\Study n code\Kelprojektas\XLSCalculator\bin\Debug\EPPlus.xml
+C:\Users\Paulius\Documents\Study n code\Kelprojektas\XLSCalculator\obj\Debug\XLSCalculator.csprojAssemblyReference.cache
+C:\Users\Paulius\Documents\Study n code\Kelprojektas\XLSCalculator\obj\Debug\XLSCalculator.Form1.resources
+C:\Users\Paulius\Documents\Study n code\Kelprojektas\XLSCalculator\obj\Debug\XLSCalculator.Properties.Resources.resources
+C:\Users\Paulius\Documents\Study n code\Kelprojektas\XLSCalculator\obj\Debug\XLSCalculator.csproj.GenerateResource.cache
+C:\Users\Paulius\Documents\Study n code\Kelprojektas\XLSCalculator\obj\Debug\XLSCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Paulius\Documents\Study n code\Kelprojektas\XLSCalculator\obj\Debug\XLSCalculator.csproj.CopyComplete
+C:\Users\Paulius\Documents\Study n code\Kelprojektas\XLSCalculator\obj\Debug\XLSCalculator.exe
+C:\Users\Paulius\Documents\Study n code\Kelprojektas\XLSCalculator\obj\Debug\XLSCalculator.pdb
